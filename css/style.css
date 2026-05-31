@@ -1,0 +1,10 @@
+body{font-family:Arial,sans-serif;margin:0;background:#f4f7fa}
+header{background:#0b6aa2;color:white;padding:15px}
+nav a{color:white;margin-right:15px;text-decoration:none}
+.hero{text-align:center;padding:40px}
+.img{display:block;margin:20px auto;max-width:400px}
+table{margin:20px auto;border-collapse:collapse}
+td,th{border:1px solid #999;padding:8px}
+.cards{display:flex;gap:20px;padding:20px;justify-content:center}
+.card{background:white;padding:15px;border-radius:8px;box-shadow:0 0 5px #aaa;width:220px}
+form{padding:20px}
